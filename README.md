@@ -2,6 +2,8 @@
 
 This service is a dependency for the Bestell Service ( https://github.com/predic8/microprofile-demo-bestell-service )
 
+The Service is demonstrated on YouTube. See https://youtu.be/XwkqRCXAhiI ( German!)
+
 ## Start Server
 
  ./mvnw compile quarkus:dev
